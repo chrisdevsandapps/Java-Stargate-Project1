@@ -3,15 +3,15 @@
 # Java Miscellaneous
 
 
-- github: https://github.com/chrisdevsandapps/Java-miscellaneous1
+- github: https://github.com/chrisdevsandapps/Java-Stargate-Project1 
 
 
-- directory: /Users/hahaha/Documents/java/java-miscellaneous
+- directory: /Users/hahaha/Documents/java/java-stargate-project
 
 
 ### notes:
 1. vscode lang ginamit ko dito na ide, 
-
+1. using vscode in java: https://www.youtube.com/watch?v=PhK98HN7W2c
 
 
 ### makefile
