@@ -51,12 +51,30 @@ public class Lesson02 {
         //random number
         int randomNum123 = (int)(Math.random() * 11); // outputs: 0 ~ 10
         System.out.println("random number: " + randomNum123);
+        
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
+        randomNumMax10();
     }
 
 
     static void spacer() {
+        System.out.println(" ");
         System.out.println("###############################################");
         System.out.println("###############################################");
+        System.out.println(" ");
+    }
+
+    static void randomNumMax10() {
+        int xxx = (int)(Math.random() * 11);
+        System.out.println("random number: " + xxx);
     }
 }
 

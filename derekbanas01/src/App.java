@@ -10,6 +10,9 @@ public class App {
         System.out.println("###############################################");
         System.out.println("###############################################");
     }
+
+
+
     public static void main(String[] args) throws Exception {
         
         System.out.println("LESSON 01");
@@ -20,7 +23,13 @@ public class App {
 
         System.out.println(PiValue);
 
+
+
+
         spacer();
+
+
+
 
         int integerOne = 33;
         int integerTwo = integerOne + 100;
@@ -28,7 +37,10 @@ public class App {
         System.out.println("integerOne: " + integerOne);
         System.out.println("integerTwo: " + integerTwo);
 
+
         spacer();
+
+
 
         System.out.println("maximum size  for float: \t" + Float.MAX_VALUE);
         System.out.println("maximum size  for double: \t" + Double.MAX_VALUE);
@@ -36,7 +48,9 @@ public class App {
         System.out.println("maximum size  for long: \t" + Long.MAX_VALUE);
 
 
+
         spacer();
+
 
 
         char randomChar = 65;
@@ -45,9 +59,11 @@ public class App {
         System.out.println("randomCharUsingLetter: " + randomCharToo);
 
 
+
         spacer();
 
         
+
         // random string is technically an object, see syntax below:
         System.out.println("random string is technically an object, see syntax below:");
         String someString = "i am the greatest and happiest and most fulfilled!!!";
@@ -71,7 +87,9 @@ public class App {
         // https://youtu.be/TBWX97e1E9g?t=896
 
 
+
         spacer();
+
 
 
         // converting to one primitive type to another (casting)
@@ -79,6 +97,7 @@ public class App {
         int doubleToInt123 = (int)double123;
         System.out.println("original double var: " + double123);
         System.out.println("casting from double to int: " + doubleToInt123);
+
 
 
         // what happens if double is bigger than the int:
@@ -90,7 +109,9 @@ public class App {
         System.out.println("casting from double to int: " + doubleToInt234);
         /* other castings available: (double), (float), etc */
 
+
         spacer();
+
 
 
         // how to turn a string into one datatypes
