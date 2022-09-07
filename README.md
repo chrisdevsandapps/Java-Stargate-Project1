@@ -9,9 +9,18 @@
 - directory: /Users/hahaha/Documents/java/java-stargate-project
 
 
+
+<br> <br> <br>
+
+
 ### notes:
 1. vscode lang ginamit ko dito na ide, 
 1. using vscode in java: https://www.youtube.com/watch?v=PhK98HN7W2c
+
+
+
+<br> <br> <br>
+
 
 
 ### makefile
@@ -19,8 +28,16 @@
 
 
 
+<br> <br> <br>
+
+
+
 ### maven
 - https://www.tutorialspoint.com/maven/index.htm
+
+
+
+<br> <br> <br>
 
 
 ### sample command sa pag compile at run ng java code
@@ -38,6 +55,8 @@ $java helloworld
 ```
 
 
+<br> <br> <br>
+
 
 ### indication kapag nailagay ko na sa slides
 ```sh
@@ -51,4 +70,55 @@ SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 ###################################################
 */
 ```
+
+
+<br> <br> <br>
+
+
+### javaFX installation
+
+1. https://www.youtube.com/watch?v=zlHXH6maOR0
+
+1. https://www.youtube.com/watch?v=IPhqJh4ckWA
+
+1. https://www.youtube.com/watch?v=I4J5_IWDeEo
+
+1. https://www.youtube.com/watch?v=5G2XM1nlX5Q
+
+1. https://www.youtube.com/watch?v=H67COH9F718
+
+1. https://www.youtube.com/watch?v=XuhFjBjkQNM
+
+1. https://www.youtube.com/watch?v=p0fOy21XzK0
+
+1. https://www.youtube.com/watch?v=AubJaosfI-0
+
+
+
+<br> <br> <br>
+
+
+### other youtube playlist
+
+1. [sdptSolutions](https://www.youtube.com/playlist?list=PLVnJhHoKgEmqJoW6MSTpHtBpWv3rn-0Or)
+
+1. [java-guides-collection](https://www.youtube.com/watch?v=GdAon80-0KA)
+	- https://www.youtube.com/playlist?list=PLGRDMO4rOGcNpAJPtuuCOPXvI39Elxa-c
+
+
+
+
+
+<br> <br> <br>
+
+
+### channels
+
+1. [code-decode](https://www.youtube.com/c/CodeDecode/playlists)
+
+1. [java-guides](https://www.youtube.com/c/JavaGuides/playlists)
+
+1. [geekific](https://www.youtube.com/c/Geekific/playlists)
+
+
 
