@@ -1,39 +1,6 @@
-# Notes
-
-### types of inheritance
-
-1. single inheritance
-
-1. multi level inheritance
-
-1. hierarchical inheritance
-
-1. hybrid inheritance
+# naveen automation labs youtube channel
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
----
----
----
----
----
----
----
----
----
 
 ## Getting Started
 

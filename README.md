@@ -105,6 +105,18 @@ SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 1. [java-guides-collection](https://www.youtube.com/watch?v=GdAon80-0KA)
 	- https://www.youtube.com/playlist?list=PLGRDMO4rOGcNpAJPtuuCOPXvI39Elxa-c
 
+1. [collections-from-jakobJenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK)
+
+1. https://www.youtube.com/watch?v=KpttlFvpuNo
+
+1. https://www.youtube.com/watch?v=Ku20QtzU5oQ
+
+1. https://www.youtube.com/watch?v=CFD9EFcNZTQ
+
+1. [edureka java playlist](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ)
+
+1. [edureka website](https://www.edureka.co/blog/java-tutorial/)
+
 
 
 
@@ -119,6 +131,22 @@ SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 1. [java-guides](https://www.youtube.com/c/JavaGuides/playlists)
 
 1. [geekific](https://www.youtube.com/c/Geekific/playlists)
+
+1. [Coding-Env](https://www.youtube.com/channel/UCRL1YHMZOzbFE2qsCRakfUQ/playlists)
+
+1. [Naveen-AutomationLabs](https://www.youtube.com/c/NaveenAutomationLabs/playlists)
+
+1. [Simply-Coding](https://www.youtube.com/c/SimplyCoding/playlists)
+
+1. [pinoyCodeCamp](https://www.youtube.com/c/PinoyCodeCamp/videos)
+
+1. [jakob-Jenkov](https://www.youtube.com/c/JakobJenkov/playlists)
+
+
+
+
+
+
 
 
 
