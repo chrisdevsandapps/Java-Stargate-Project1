@@ -4,7 +4,15 @@
 
 todo: https://docs.oracle.com/javase/tutorial/extra/generics/methods.html
 
+<br>
+<br>
 
+TODO: https://www.infoworld.com/article/3171300/java-101-interfaces-in-java.html
+
+TODO: https://www.geeksforgeeks.org/interfaces-in-java/
+
+<br>
+<br>
 
 #############################################################################
 #############################################################################

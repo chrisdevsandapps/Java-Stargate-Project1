@@ -1,12 +1,18 @@
-// public class App {
-//     public static void main(String[] args) throws Exception {
-//         System.out.println("Hello, World!");
-//     }
-// }
+/*
+ * 
+ * timeline: https://youtu.be/jUcAyZ5OUm0?t=919
+ * 
+ * generic classes with multiple parameters
+ * 
+ * note: ayaw mag run, may error, pero nageexecute naman sa jdoodle.com/online-java-compiler/
+ * 
+ * 
+ */
 
 
+package BroCode;
 
-public class App {
+public class Xxx444 {
     public static void main(String[] args) {
         System.out.println("Xxx444.main()");
 
@@ -46,3 +52,4 @@ class MyGenClass <TTT, VVV> {
         System.out.println(yyy);
     }
 }
+
