@@ -1,5 +1,26 @@
 
+```java
 
+/*
+ * 
+ * https://www.youtube.com/watch?v=r_MbozD32eo
+ * Multithreading in Java Explained in 10 Minutes
+ * CodingWithJohn
+ * 
+ */
+
+
+ /*
+ * 
+ * https://www.youtube.com/watch?v=J09TLPgwd0Y
+ * Java multithreading 🧶
+ * BroCode
+ * 
+ * 
+ */
+
+
+```
 
 
 ##############################################################################
