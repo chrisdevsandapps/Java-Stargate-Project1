@@ -117,7 +117,7 @@ SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 
 1. [edureka website](https://www.edureka.co/blog/java-tutorial/)
 
-
+1. [java-simpleSnippets](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_uaJgi-FL9QwINS9JxKKg2)
 
 
 

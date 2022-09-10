@@ -21,6 +21,11 @@ public class ArrayList02 {
     }
 
     static void xxx111() {
+        /*
+         * example below
+         * constraining to integer only,
+         * but can be applied to different types
+         */
 
         ArrayList<Integer> xxx = new ArrayList<>();
         xxx.add(100);
