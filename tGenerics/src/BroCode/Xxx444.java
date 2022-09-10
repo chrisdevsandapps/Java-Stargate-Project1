@@ -4,8 +4,6 @@
  * 
  * generic classes with multiple parameters
  * 
- * note: ayaw mag run, may error, pero nageexecute naman sa jdoodle.com/online-java-compiler/
- * 
  * 
  */
 
@@ -16,10 +14,10 @@ public class Xxx444 {
     public static void main(String[] args) {
         System.out.println("Xxx444.main()");
 
-        MyGenClass<Integer,Integer> myIntG = new MyGenClass<>(111, 888);
-        MyGenClass<Double,Double> myDblG = new MyGenClass<>(3.14, 88.99);
-        MyGenClass<Character,Integer> myCharG = new MyGenClass<>('a', 888);
-        MyGenClass<String,Character> myStrG = new MyGenClass<>("hello", 'x');
+        MyGenClassX<Integer,Integer> myIntG = new MyGenClassX<>(111, 888);
+        MyGenClassX<Double,Double> myDblG = new MyGenClassX<>(3.14, 88.99);
+        MyGenClassX<Character,Integer> myCharG = new MyGenClassX<>('a', 888);
+        MyGenClassX<String,Character> myStrG = new MyGenClassX<>("hello", 'x');
 
 
         myIntG.getTTTandVVV();
@@ -33,11 +31,11 @@ public class Xxx444 {
 }
 
 
-class MyGenClass <TTT, VVV> {
+class MyGenClassX <TTT, VVV> {
     TTT xxx;
     VVV yyy;
 
-    MyGenClass(TTT inputTTT, VVV inputVVV) {
+    MyGenClassX(TTT inputTTT, VVV inputVVV) {
         this.xxx = inputTTT;
         this.yyy = inputVVV;
     }
@@ -48,8 +46,10 @@ class MyGenClass <TTT, VVV> {
         return yyy;
     }
     public void getTTTandVVV() {
+        System.out.println(" ");
         System.out.println(xxx);
         System.out.println(yyy);
+        System.out.println(" ");
     }
 }
 

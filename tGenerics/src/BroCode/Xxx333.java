@@ -23,10 +23,10 @@ public class Xxx333 {
 
 
         System.out.println("\nusing generics class:");
-        MyGenClass<Integer> myIntG = new MyGenClass<>(1);
-        MyGenClass<Double> myDblG = new MyGenClass<>(3.14);
-        MyGenClass<Character> myCharG = new MyGenClass<>('a');
-        MyGenClass<String> myStrG = new MyGenClass<>("hello");
+        MyGenClass333<Integer> myIntG = new MyGenClass333<>(1);
+        MyGenClass333<Double> myDblG = new MyGenClass333<>(3.14);
+        MyGenClass333<Character> myCharG = new MyGenClass333<>('a');
+        MyGenClass333<String> myStrG = new MyGenClass333<>("hello");
 
         System.out.println(myIntG.getValue());
         System.out.println(myDblG.getValue());
@@ -76,9 +76,9 @@ class MyStringClass {
 
 
 // using generics
-class MyGenClass <TTT> {
+class MyGenClass333 <TTT> {
     TTT xxx;
-    MyGenClass(TTT input) {
+    MyGenClass333(TTT input) {
         this.xxx = input;
     }
     public TTT getValue() {
